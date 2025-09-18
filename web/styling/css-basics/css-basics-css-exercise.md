@@ -48,11 +48,7 @@ You’ll also learn how to combine class, ID, and element selectors to achieve d
 
 ## Footnotes
 
-[1: Reference]  
-![css-basics-example](https://img.enkipro.com/2e6f97afb190936d1b4376bbb253d5c7.jpeg)
-
-[2: Hints]
-
+[1: Hints]
 - Target an element by tag:
 
 ```css
