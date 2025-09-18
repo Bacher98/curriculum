@@ -39,7 +39,8 @@ Example:
 </form>
 ```
 
-![form-autofocus](https://img.enkipro.com/553f219253150ae4bd0c9bed2e97dff6.png)
+![form-autofocus](https://img.enkipro.com/0bf0a3a8d228ea46283da6bf4995016f.png)
+
 In the example above, the first text field has the autofocus set, so when the page loads, the text box will be selected by default and the user can start entering text right away without having to click the textfield.
 
 You can assign `autofocus` as either `autofocus`, `autofocus=""` or `autofocus="autofocus"`. All three options work the same in HTML5. However, if you're using XHTML `autofocus` is required to be written as `autofocus="autofocus"`.

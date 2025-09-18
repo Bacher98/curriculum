@@ -51,6 +51,8 @@ Example with a poem:
 </figure>
 ```
 
+![fig-and-figcaption-example](https://img.enkipro.com/c907f4028fcf71901cf3451017ab4632.png)
+
 ---
 
 ## Practice
