@@ -7,7 +7,6 @@ insights:
   - the-box-sizing-property
   - the-display-property
   - box-model-discussion-insight
-  - box-model-web-exercise
   
 aspects:
   - introduction
