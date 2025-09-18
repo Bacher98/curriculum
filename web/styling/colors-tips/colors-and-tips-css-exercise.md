@@ -8,7 +8,7 @@ links:
   - >-
     [MDN: CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value){website}
   - >-
-    [Accessible Color Contrast](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_Colors_and_Contrast){website}
+    [Accessible Color Contrast](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Guides/Colors_and_Luminance){website}
 webSetupCode:
   startingHtml: |
     <div class="your-code">

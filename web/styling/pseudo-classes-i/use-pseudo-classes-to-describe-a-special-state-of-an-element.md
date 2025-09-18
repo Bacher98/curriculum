@@ -9,7 +9,7 @@ tags:
 links:
   - >-
     [Article on Pseudo
-    Classes](http://www.sitepoint.com/web-foundations/pseudo-classes/){article}
+    Classes](https://www.sitepoint.com/pseudo-classes-the-basics/){article}
   - >-
     [MDN Docs on
     :hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover){documentation}
