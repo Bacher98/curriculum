@@ -52,6 +52,12 @@ Types of change:
 
 - [Web - Add exercises](https://github.com/enkidevs/curriculum/pull/3356)
 
+### Added
+
+## September 11th 2025
+
+- [Web - Web Exercises - Add new course with many exercises for the web playground](https://github.com/enkidevs/curriculum/pull/3364)
+
 ### Changed
 
 ## August 25th 2025
