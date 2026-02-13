@@ -62,7 +62,19 @@ genisoimage -U -b boot/etfsboot.com -no-emul-boot -boot-load-size 8 \
   -V "WIN11_MINI" -o Win11-mini.iso Win11-src
 ```
 
-You can then test the image in `qemu`/`virt-manager` before writing it to USB media.
+Before writing to USB media, boot the ISO in a VM and verify it reaches Windows Setup.
+
+Example test with `qemu`:
+
+```bash
+qemu-system-x86_64 \
+  -m 4096 -smp 4 -cpu host \
+  -enable-kvm \
+  -cdrom Win11-mini.iso \
+  -boot d
+```
+
+If you prefer a GUI flow, create a new VM in `virt-manager`, attach `Win11-mini.iso`, and check that setup starts normally.
 
 ---
 
