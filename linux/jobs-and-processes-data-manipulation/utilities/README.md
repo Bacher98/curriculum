@@ -6,6 +6,7 @@ insights:
   - image-manipulation-using-convert
   - delete-commands-aliases
   - practical-du-command
+  - build-a-tiny-windows-11-image
 aspects:
   - obscura
   - workout
